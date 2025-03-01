@@ -20,7 +20,7 @@ Visit the GPT links provided below and interact with them through the OpenAI Cha
 | **PenTester GPT**         | AI support for penetration testers.                  | [Open GPT](https://pentestgpt.ai)   |
 | **Threat Intel GPT**      | AI-driven threat intelligence analysis.              | [Open GPT](https://chatgpt.com/g/g-Vy4rIqiCF-threat-intel-bot)|
 | **CyberSec Analyst GPT**  | AI-powered security analyst assistant.               | [Open GPT](https://chatgpt.com/g/g-12V1yLgzC-amelia-cybersecurity-analyst) |
-| **Red Team GPT**          | AI support for offensive security teams.             | [Open GPT](https://openai.com/form/red-teaming-network)    |
+| **Red Team GPT**          | AI support for offensive security teams.             | [Open GPT](https://chatgpt.com/g/g-H3mThO591-red-team)    |
 | **Blue Team GPT**         | AI-driven defensive security assistant.              | [Open GPT](https://chatgpt.com/g/g-Ewq6VIJ7b-blueteam-ai)   |
 | **Malware Analysis GPT**  | AI-assisted malware investigation and reverse engineering. | [Open GPT](https://chatgpt.com/g/g-UsiBwOXNA-malware-analyst) |
 | **Phishing Detector GPT** | AI-powered phishing analysis and detection.          | [Open GPT](https://chatgpt.com/g/g-DjkKuz4T2-phishing-detector) |
